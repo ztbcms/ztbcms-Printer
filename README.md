@@ -1,3 +1,17 @@
+## 使用的流程
+
+#### 一:前往飞鹅云平台注册的用户信息 (http://www.feieyun.com)
+<img src="https://jap-online.oss-cn-shenzhen.aliyuncs.com/d/file/module_upload_images/2020/07/5f0bb6531dd32.jpg" alt="PHP: The Right Way"/>
+
+#### 完成后台设置，可点击测试可以进行打印测试
+<img src="https://jap-online.oss-cn-shenzhen.aliyuncs.com/d/file/module_upload_images/2020/07/5f0bb66ec8bdb.jpg" alt="PHP: The Right Way"/>
+
+#### 根据自己业务逻辑编辑打印信息
+
+<img src="https://jap-online.oss-cn-shenzhen.aliyuncs.com/d/file/module_upload_images/2020/07/5f0bb7d8d86bf.jpg" alt="PHP: The Right Way"/>
+
+
+
 ## 模板中可使用的参数
 
 <img src="https://jap-online.oss-cn-shenzhen.aliyuncs.com/d/file/module_upload_images/2020/07/5f056baa8944c.png" alt="PHP: The Right Way"/>
